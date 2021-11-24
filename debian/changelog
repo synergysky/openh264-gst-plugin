@@ -1,3 +1,9 @@
+openh264-gst-plugin (1.0.0+20211124pexip-1) pexip-bullseye; urgency=medium
+    
+   * Updated debian pacakge to be compatible to bullseye
+
+  -- Egil Hasting <egil.hasting@higen.org>  Wed, 24 Nov 2021 13:10:57 +0200
+
 openh264-gst-plugin (1.0.0-0kurento1) unstable; urgency=medium
 
   * Initial Release.
